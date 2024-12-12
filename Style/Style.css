@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-color: #ffe7d1;
+}
+
+#desc img,
+#desc2 img {
+    /* background-color: aquamarine;
+    max-height: 30%; */
+    /* object-fit: cover; */
+    /* height: 40%; */
+}
+
+section .btn-ijo,
+section .btn-ijo {
+    background-color: #afd097;
+}
+
+section .btn-ijo:hover,
+section .btn-ijo:hover {
+    background-color: #79a858;
+}
+
+#cards {
+    background-color: #ecca9c;
+}
+
+#cards .card {
+    height: 100%;
+    border-radius: 10px;
+}
+
+#cards .card img {
+    height: 80%;
+}
+
+footer {
+    background-color: #38241e;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Selengkapnya */
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
